@@ -8,3 +8,17 @@ For new TILs, watch this repo
 # About
 
 I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
+
+### Categories
+
+* [Ack](#ack)
+* [Github](#github)
+
+
+---
+
+### Ack
+
+### Github
+
+- [List of Github markdown emoji #cheatsheet](github/github-markdown-emoji-cheatsheet.md)
