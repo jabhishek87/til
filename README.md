@@ -14,6 +14,7 @@ I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 * [Ack](#ack)
 * [Github](#github)
 * [screen](#screen)
+* [python](#python)
 
 
 ---
@@ -26,3 +27,6 @@ I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
 ### Screen
 - [Linux Screen Cheatsheet](screen/linux-screen-cheatsheet.md)
+
+### Python
+- [Python Data Structures](python/contents.md)
