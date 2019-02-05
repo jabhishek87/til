@@ -15,6 +15,7 @@ I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 * [Github](#github)
 * [screen](#screen)
 * [python](#python)
+* [linux](#linux)
 
 
 ---
@@ -30,3 +31,6 @@ I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
 ### Python
 - [Python Data Structures](python/contents.md)
+
+### Linux
+- [Linux Basics](linux/contents.md)
