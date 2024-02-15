@@ -166,7 +166,6 @@ def main():
         root.insert(i)
 
     print(root.lookup(6))
-    import pdb; pdb.set_trace()
 
 if __name__ == '__main__':
     main()
